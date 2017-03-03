@@ -1,0 +1,8 @@
+number of users collected: 100
+number of messages collected: 200
+number of communities discovered: 4
+average number of users per community: 25
+number of instances per class found: 10
+examples:
+  from positive class: RT @lavieentae: i hate han and dani choke on air you guys dont deserve kim taehyung's dick in your mouth with which you sing taylor swift s?
+  from negative class: I love this!!!!  https://t.co/CJCdalTgG9 #MakeADifference #Excellence
