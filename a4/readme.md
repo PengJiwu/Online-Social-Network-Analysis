@@ -13,8 +13,9 @@ All the information we collect in this part will be stored in datasets.csv
       Store this graph as relation2.png. That is: Each node represent one user, no node for target in this graph. If two user have a very high similarity, there will be an edge between these two node.
   c. Using girvan newman algorithm to partition the graph in step 2 to several community.  
       Save the result of clustering to cluster_result.csv.
-      
-3. classify.py
+
+
+3.classify.py
 
 Classify the sentiment of each tweet. Pick the top 3 positive and top 1 negative, print these tweets.
 Save the top 10 positive result and top 10 negative result to classify_result.csv.
